@@ -4,3 +4,4 @@
 
 <https://cidkumagai.github.io/ts-todoApp/>
 
+state管理はredux,UIはchakrauiを使用しています。
